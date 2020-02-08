@@ -1,0 +1,68 @@
+body{
+    background-color:black;
+}
+.backcolor{
+    background-color: #4E008E;
+}
+.btn {
+    margin-top: 115px;
+
+}
+.card{
+    margin-top: 50px;
+    width: 1000px;
+    height:600px;
+    background-color:black;
+    color:white;
+}
+.Homeimg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-height: 1000px;
+    background: rgba(0, 0, 0, 0.7);
+}
+.Homeimg{
+    background:url(./homeimgf.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 700px;
+    }
+.matter{
+    margin-top: 200px;
+    text-align: center;
+    color:black;
+}  
+.contact{
+    margin-top: 100px;
+}  
+
+.formstyle{
+    margin-top:150px ;    
+}
+.viewstyle{
+    margin-top: 1500px;
+}
+.placetop{
+    margin-top: 200px;
+}
+
+
+.formcolor{
+    background-color: skyblue;
+    color:black;
+}
+.tableboder{
+    border: 1px solid black;
+}
+.tablecolor{
+    background-color:goldenrod ;
+    color:black
+}
+.ViewApptable{
+    background-color: goldenrod;
+    color:black;
+    margin-top: 200px;
+}
